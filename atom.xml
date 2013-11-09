@@ -4,7 +4,7 @@
   <title><![CDATA[落入凡间的猪]]></title>
   <link href="http://yangsheng.github.io/atom.xml" rel="self"/>
   <link href="http://yangsheng.github.io/"/>
-  <updated>2013-11-08T22:10:42+08:00</updated>
+  <updated>2013-11-09T15:35:24+08:00</updated>
   <id>http://yangsheng.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,9 +14,9 @@
 
   
   <entry>
-    <title type="html"><![CDATA[My blog]]></title>
+    <title type="html"><![CDATA[My Blog]]></title>
     <link href="http://yangsheng.github.io/blog/2013/11/08/my-blog/"/>
-    <updated>2013-11-08T19:48:00+08:00</updated>
+    <updated>2013-11-08T00:00:00+08:00</updated>
     <id>http://yangsheng.github.io/blog/2013/11/08/my-blog</id>
     <content type="html"><![CDATA[
 ]]></content>
