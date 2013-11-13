@@ -4,7 +4,7 @@
   <title><![CDATA[落入凡间的猪]]></title>
   <link href="http://yangsheng.github.io/atom.xml" rel="self"/>
   <link href="http://yangsheng.github.io/"/>
-  <updated>2013-11-13T10:32:08+08:00</updated>
+  <updated>2013-11-13T10:47:36+08:00</updated>
   <id>http://yangsheng.github.io/</id>
   <author>
     <name><![CDATA[losepig]]></name>
@@ -18,12 +18,12 @@
     <link href="http://yangsheng.github.io/blog/2013/11/13/cocoapodsshi-shi-yao/"/>
     <updated>2013-11-13T10:09:00+08:00</updated>
     <id>http://yangsheng.github.io/blog/2013/11/13/cocoapodsshi-shi-yao</id>
-    <content type="html"><![CDATA[<p>现在我们在github上下载别人iOS工程代码的时候，遇到用CocoaPods的情况比较多，那么CocoaPods是什么呢，按照官方的描述&#8221;The best way to manage library dependencies in Objective-c projects&#8221;,是的，它是一个依赖关系的管理工具。
-我们在一个项目的时候，经常用到第三方库的情况，在以前，我们直接把第三库下载下来放到我们的工程目录下，但是我们想想这种情况会有哪些问题?
-1 版本更新
-2 浪费空间
-3 不能指定第三方库的版本
-4 不能一目了然的看到依赖了哪些第三方库
+    <content type="html"><![CDATA[<p>  现在我们在github上下载别人iOS工程代码的时候，遇到用CocoaPods的情况比较多，那么CocoaPods是什么呢，按照官方的描述&#8221;The best way to manage library dependencies in Objective-c projects&#8221;,是的，它是一个依赖关系的管理工具。<br>
+   我们在一个项目的时候，经常用到第三方库的情况，在以前，我们直接把第三库下载下来放到我们的工程目录下，但是我们想想这种情况会有哪些问题?<br>
+1  版本更新<br>
+2 浪费空间<br>
+3 不能指定第三方库的版本<br>
+4 不能一目了然的看到依赖了哪些第三方库<br>
 用CocoaPods都能够解决上面的问题，CocoaPods真的很好用，毫无疑问，你值得拥有。</p>
 ]]></content>
   </entry>
