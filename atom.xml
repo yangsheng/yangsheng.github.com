@@ -4,7 +4,7 @@
   <title><![CDATA[落入凡间的猪]]></title>
   <link href="http://yangsheng.github.io/atom.xml" rel="self"/>
   <link href="http://yangsheng.github.io/"/>
-  <updated>2013-11-13T10:47:36+08:00</updated>
+  <updated>2013-12-01T07:43:22+08:00</updated>
   <id>http://yangsheng.github.io/</id>
   <author>
     <name><![CDATA[losepig]]></name>
@@ -12,6 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[入手Apple TV和土豪金]]></title>
+    <link href="http://yangsheng.github.io/blog/2013/12/01/ru-shou-apple-tvhe-tu-hao-jin/"/>
+    <updated>2013-12-01T07:12:00+08:00</updated>
+    <id>http://yangsheng.github.io/blog/2013/12/01/ru-shou-apple-tvhe-tu-hao-jin</id>
+    <content type="html"><![CDATA[<p>昨天让朋友从香港帮忙买的Apple TV和土豪金终于到了，其实一直在观望香港的5s，但是土豪金一直缺货，直到11月底才放开卖，之前没有买也是担心我的移动卡会用不了4G网络，后来也证实可以用了，当然还有一个给自己冠冕堂皇的理由，用来做5s上的app测试，哈哈。<br>
+拿到之后，因为5s的卡是那种小的迷你卡，之前4s是剪卡的，这个卡移动那边说可以免费帮换成迷你卡，还不错。土豪金真是比我的那个4s要好不少，更薄，更轻，拿在手上的手感要好很多，其他的应用方面的体验我就不说了。其实最想说的还是Apple TV,之前看了国内的其他盒子，比如小米盒子，都是负面的评价多，所以那之后我就关注了Apple TV，因为家里的苹果设备比较多，MBP，iPad，iPad Mini，iPhone4s,iPhone5s,想用电视做为输出，想用电视做air play.因为小孩子看动画片，小屏幕对眼睛不好，我也比较喜欢看美剧，用电脑看觉得不舒服，想想看，大冬天的，窝在沙发上看美剧是多么舒服的一件事情。但是apple tv在国内要么是破解，要么是设置DNS，1，2代都可以破解，3代暂时只能设置DNS。把所有的线都插好后，到设置里面去设置DNS，“ 预告片不可用，请稍后再试”，晕死，这下这个东西不会成为一块没有用的砖头了吧。网上一搜，大家都遇到这个问题了，之前简单的设置DNS方法不可用了，需要将一些配置文件写入apple tv里面，<a href="http://bbs.weiphone.com/read-htm-tid-6861034.html">看教程</a>.3分钟之后，在预告片里面看到了:搜狐，pptv，腾讯视频,youku&hellip;还有很多线上网络资源，还有直播，哈哈，这下家里面的IPTV可以彻底不要了。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[cocoapods是什么]]></title>
